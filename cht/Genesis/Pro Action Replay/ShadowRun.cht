@@ -44,6 +44,6 @@ cheat10_desc = "Max Cyberdeck Load Speed"
 cheat10_code = "FFFBC4:7803"
 cheat10_enable = false 
 
-cheat10_desc = "No Melee one hit death when fully cybered"
-cheat10_code = "055D1C:6004"
-cheat10_enable = false 
+cheat11_desc = "No Melee one hit death when fully cybered"
+cheat11_code = "055D1C:6004"
+cheat11_enable = false 
